@@ -12,7 +12,9 @@ Interface réalisée pour EVIE (version S.A.R.A.H de Hervé le Hibou), mais qui 
 
 ------------------------------------------------------------------
 
-Vous trouverez ici 5 interfaces graphiques sous forme de vu-mètre, certaines semblent être en double, mais ne vous y trompez pas, vous aurez une version MP3 qui est sensible aux sons avec un fort gain de sortie, et une version TTS qui est sensibles aux sons avec un plus faible gain de sortie, certaines, notamment les vu-mètre 4 et 5 étant en parti transparant pourront même être superposé entre eux pour un rendu encore plus fun. (Mettre le format MP3 derrnière et le format TTS par dessus), je vous est également fait un autre skin (Fond pour vu-mètre Steampunk) exprès pour reçevoir le skin vu-mètre 03 au milieu et les skins vu-mètre 04 et vu-mètre 05 de chaque côté.
+Vous trouverez ici 5 interfaces graphiques sous forme de vu-mètre, certaines semblent être en double, mais ne vous y trompez pas, vous aurez une version MP3 qui est sensible aux sons avec un fort gain de sortie, et une version TTS qui est sensibles aux sons avec un plus faible gain de sortie.
+
+Certaines, notamment les vu-mètre 4 et 5 étant en parti transparant pourront même être superposé entre eux pour un rendu encore plus fun. (Mettre le format MP3 derrnière et le format TTS par dessus), je vous est également fait un autre skin (Fond pour vu-mètre Steampunk) exprès pour reçevoir le skin vu-mètre 03 au milieu et les skins vu-mètre 04 et vu-mètre 05 de chaque côté.
 
 ------------------------------------------------------------------
 
